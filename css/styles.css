@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&Lexend+Deca:wght@300display=swap');
 :root {
     /* dark shades of primary color*/
     --clr-primary-1: hsl(43, 86%, 17%);
@@ -954,4 +954,26 @@ p {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
     gap: 3rem 1rem;
+}
+
+.blog-text
+{   
+    font-family: 'Lexend Deca', sans-serif;
+    line-height: 28px;
+    list-style:disc;
+    margin-block-end: 16px;
+    margin-block-start: 16px;
+    margin-bottom: 16px;
+    overflow-wrap: break-word;
+}
+#blog-list{
+    color: var(--clr-grey-5);
+    font-family: 'Lexend Deca', sans-serif;
+    line-height: 28px;
+    list-style:none;
+    margin-block-end: 16px;
+    margin-block-start: 16px;
+    margin-bottom: 32px;
+    margin-top: 1em;
+    overflow-wrap: break-word;
 }
