@@ -996,3 +996,10 @@ p {
 	0%		{ top:-350px; }
 	100%	{ top:0; }
 }
+
+@media screen and (max-width:600px){
+    .ribbon{
+        display: none;
+    }
+    
+}
