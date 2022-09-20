@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.rajnori.net/</loc>
+    <lastmod>2022-20-09</lastmod>
+     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.rajnori.net/index.html</loc>
+    <lastmod>2022-20-09</lastmod>
+     <changefreq>monthly</changefreq>
+  </url>
+<url>
+    <loc>https://www.rajnori.net/about.html</loc>
+    <lastmod>2022-20-09</lastmod>
+     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.rajnori.net/projects.html</loc>
+    <lastmod>2022-20-09</lastmod>
+     <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.rajnori.net/contact.html</loc>
+    <lastmod>2022-20-09</lastmod>
+     <changefreq>monthly</changefreq>
+  </url>
+</urlset>
