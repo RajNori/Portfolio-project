@@ -1,5 +1,5 @@
 User-agent: *
-Disallow:
+Allow: / 
 Crawl-delay: 8
 
 Sitemap: https://www.rajnori.net/sitemap.xml
