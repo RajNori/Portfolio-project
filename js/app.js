@@ -8,10 +8,10 @@ const logo = document.querySelector('.nav-logo')
 window.addEventListener("scroll", function () {
   if (window.pageYOffset > 80) {
     navbar.classList.add("navbar-fixed");
-    
+      logo.style.opacity = 0.5;
   } else {
     navbar.classList.remove("navbar-fixed");
-    logo.style.opacity = 0.5;
+  
   }
 });
 // show sidebar
