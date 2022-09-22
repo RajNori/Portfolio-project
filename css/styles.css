@@ -1001,5 +1001,8 @@ p {
     .ribbon{
         display: none;
     }
+   .about-img > .hero-photo{
+        display: none;
+    }
     
 }
