@@ -1001,8 +1001,10 @@ p {
     .ribbon{
         display: none;
     }
-   .about-img > .hero-photo{
+   .about-img > .hero-photo,
+    .section.blog {
         display: none;
     }
+
     
 }
