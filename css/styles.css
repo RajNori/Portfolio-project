@@ -1002,7 +1002,7 @@ p {
         display: none;
     }
    .about-img > .hero-photo,
-    .section.blog {
+.section.blog {
         display: none;
     }
 
